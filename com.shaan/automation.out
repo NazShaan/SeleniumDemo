@@ -1,0 +1,12 @@
+Initializing the init method form BaseClass
+launch the by calling chrome
+Navigate to url.. https://amazon.com
+Select the Dropdown using locator : searchDropdownBox and selected Books
+entered text using locator : field-keywords and call the parameter :Harry Potter
+Click on the Search Button using locator : //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
+2020-07-30 00:34:54 INFO  TC_003:12 - Initializing the init method form BaseClass
+2020-07-30 00:35:07 INFO  TC_003:15 - launch the by calling chrome
+2020-07-30 00:35:22 INFO  TC_003:18 - Navigate to url.. https://amazon.com
+2020-07-30 00:35:30 INFO  TC_003:21 - Select the Dropdown using locator : searchDropdownBox and selected Books
+2020-07-30 00:35:33 INFO  TC_003:24 - entered text using locator : field-keywords and call the parameter :Harry Potter
+2020-07-30 00:35:45 INFO  TC_003:27 - Click on the Search Button using locator : //div[@class='nav-search-submit nav-sprite']//input[@class='nav-input']
